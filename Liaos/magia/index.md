@@ -4,7 +4,7 @@ layout: page
 
 Simplemente un día conocimos a un mago como este:
 <p style="text-align:center">
-<video src="./video." controls="controls" style="max-width: 730px;">
+<video src="https://github.com/AloePacci/aloepacci.github.io/blob/main/Liaos/magia/video.mp4" controls="controls" style="max-width: 730px;">
 </video>
 </p>
 
