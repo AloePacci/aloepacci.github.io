@@ -2,9 +2,25 @@
 layout: page
 ---
 
-Pagina en desarrollo
+Pagina en desarrollo, de momento métete en el grupo
+
+El plan es ir a mi casa un finde y escapar de la calor
 
 <p style="text-align:center">
-<a href="./lanzamiento_hachas"><img src="./lanzamiento_hachas/perfil.jpeg" width="40%"/></a>
-<a href="./karts"><img src="./karts/perfil.webp" width="40%"/></a>
+<a> <img src="./img1.jpeg" width="90%"/></a>
 </p>
+<p style="text-align:center">
+<a> <img src="./img2.jpeg" width="90%"/></a>
+</p>
+<p style="text-align:center">
+<a> <img src="./img3.jpeg" width="90%"/></a>
+</p>
+<p style="text-align:center">
+<a> <img src="./img4.jpeg" width="90%"/></a>
+</p>
+
+
+No se ve muy bien, pero podemos hacer una barbalidad de cosas por la zona, se come muy bien y:
+Tengo piscina, mesa pingpong, canasta baloncesto, dardos, una pista de futbol y basket al lado de casa, un frontón, pista de tenis y padel (estas son de pago). 
+
+También podemos plantear ir a mi campo o al de Fran(esto se ve un poco imposible) y podemos liar el taco.

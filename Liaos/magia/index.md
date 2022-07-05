@@ -2,9 +2,14 @@
 layout: page
 ---
 
-Pagina en desarrollo
+Simplemente un día conocimos a un mago como este:
+<p style="text-align:center">
+<video src="./video." controls="controls" style="max-width: 730px;">
+</video>
+</p>
+
+Están en un bar en Triana como podéis ver aquí, se reunen casi todos los miércoles
 
 <p style="text-align:center">
-<a href="./lanzamiento_hachas"><img src="./lanzamiento_hachas/perfil.jpeg" width="40%"/></a>
-<a href="./karts"><img src="./karts/perfil.webp" width="40%"/></a>
+<a> <img src="./perfil.jpeg" width="90%"/></a>
 </p>
