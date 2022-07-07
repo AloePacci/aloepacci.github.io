@@ -24,3 +24,13 @@ No se ve muy bien, pero podemos hacer una barbalidad de cosas por la zona, se co
 Tengo piscina, mesa pingpong, canasta baloncesto, dardos, una pista de futbol y basket al lado de casa, un frontón, pista de tenis y padel (estas son de pago). 
 
 También podemos plantear ir a mi campo o al de Fran(esto se ve un poco imposible) y podemos liar el taco.
+
+
+Haced click en las imágenes
+<p style="text-align:center">
+<a href="./comida.html"><img src="./comida.png" width="90%"/></a>
+</p>
+
+<p style="text-align:center">
+<a href="./actividades.html"><img src="./actividades.jpeg" width="90%"/></a>
+</p>
