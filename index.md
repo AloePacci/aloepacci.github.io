@@ -12,3 +12,7 @@ you can split this github account rn in 2 different spaces:
 <a href="./ASV_Loyola_US"><img src="./ASV_Loyola_US/assets/ASV.jpeg" width="40%"/></a>
 <a href="./Liaos"><img src="./Liaos/assets/perfil.jpg" width="40%"/></a>
 </p>
+<p style="text-align:center">
+<a href="./Sibiu_Nano_p"><img src="./Sibiu_Nano_p/assets/sibiu.jpeg" width="40%"/></a>
+<a href="./miscellaneous"><img src="./miscellaneous/assets/profile.jpeg" width="40%"/></a>
+</p>
