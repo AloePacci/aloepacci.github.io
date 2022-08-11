@@ -4,8 +4,7 @@ layout: page
 
 Simplemente un día conocimos a un mago como este:
 <p style="text-align:center">
-<video src="https://github.com/AloePacci/aloepacci.github.io/blob/main/Liaos/magia/video.mp4" controls="controls" style="max-width: 730px;">
-</video>
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=iKiQET-y5kg" frameborder="0" allowfullscreen></iframe>
 </p>
 
 Están en un bar en Triana como podéis ver aquí, se reunen casi todos los miércoles

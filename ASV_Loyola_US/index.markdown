@@ -16,6 +16,8 @@ layout: page
 ---
 Welcome to ASV_Loyola_US project! 
 
+I have worked in this project from 16-Dec-2021 to 31-jul-2022 last commit done by me [here](https://github.com/derpberk/ASV_Loyola_US/tree/83a195d2237af34dc4d31a91853105b321b2a84f)
+
 Autonomous Surface Vehicles - Proyecto Universidad de Sevilla - Universidad Loyola
 
 this package includes a ROS2 strategy transcode from a python based original aproach made by [Fede Peralta](https://github.com/FedePeralta)
@@ -30,5 +32,21 @@ To have a first approach to the code check [First Steps in understanding the cod
 
 ![drone](./assets/ASV.jpeg)
 
-You can also cheok our [Posts](./post.html) to keep updated of changes!
+You can also cheok our [Posts](./post.html) to check what was our test progression!
 
+{% for post in paginator.posts %}
+  <div class="post">
+    <h1>{{ post.title }}</h1>
+    {{ post.content }}
+  </div>
+{% endfor %}
+
+<nav class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}">Más nuevo</a>
+  {% endif %}
+
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}">Más antiguo</a>
+  {% endif %}
+</nav>

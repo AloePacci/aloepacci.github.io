@@ -4,6 +4,8 @@ layout: page
 
 Hay una nave industrial llena de colchonetas en [sevilla jump](http://sevilla-jump.es/)
 
+En verano no se recomienda ir porque no tienen aire acondicionado y te puedes morir de calor
+
 <p style="text-align:center">
 <a> <img src="./img1.jpg" width="90%"/></a>
 </p>
