@@ -1,23 +1,12 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-#This project is divided in 2 machines:
-
-# [Rapberry Pi](./Raspberry/Raspi.html)
-# [Jetson Xavier NX](./src/Xavier.html)
-# [Server](./src/Server.html)
-
-#You may also want to see
-
-# [Quickstart](./quickstart.html)
-# [Principle of operation](./funcionamiento.html)
-
 layout: page
 ---
 Welcome to Sibiu Nano Plus project! 
 
-This project is part of the thesys made for my degree in robotics by making a model and simulation to make a first approach to control and working with the actual UUV in my masters.
+This is a huge project that aims to create an autonomous "inexpensive" system for subsea autonomous or semiautonomous navigation able to measure data. Helping us monitorize sea environments parameters as well as gather data to analyze afterwards.
 
 <p style="text-align:center">
-<a> <img src="./assets/sibiu.jpeg" width="90%"/></a>
+<a> <img src="./assets/sibiu.jpeg" width="60%"/></a>
 </p>
+
+A first step to subsea environments, state of art was done in the work [Control, Model and simulation of a LUUV](./assets/Alejandro%20Casado%20P%C3%A9rez%20TFG.pdf)

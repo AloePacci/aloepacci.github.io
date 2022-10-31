@@ -17,5 +17,5 @@ layout: page
 This page host several projects i have worked on while I did my degree and masters
 
 <p style="text-align:center">
-<a> <img src="./assets/profile.jpeg" width="90%"/></a>
+<a href="./RC_car"> <img src="./assets/profile.jpeg" width="90%"/></a>
 </p>
