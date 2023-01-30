@@ -26,7 +26,7 @@ Esta página se irá actualizando y haré cosas para actualizar campos e intenta
 
 <p style="text-align:center">
 <a href="./Alameda"><img src="./Alameda/perfil.jpeg" width="40%"/></a>
-<a href="./Lucena"><img src="./Lucena/perfil.jpeg" width="40%"/></a>
+<a href="./food"><img src="./food/perfil.jpg" width="40%"/></a>
 </p>
 
 <p style="text-align:center">
@@ -35,6 +35,5 @@ Esta página se irá actualizando y haré cosas para actualizar campos e intenta
 </p>
 
 <p style="text-align:center">
-<a href="./food"><img src="./food/perfil.jpg" width="40%"/></a>
 <a href="./kayak"><img src="./kayak/perfil.jpg" width="40%"/></a>
 </p>
