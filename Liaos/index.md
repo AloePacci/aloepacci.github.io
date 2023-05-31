@@ -36,4 +36,5 @@ Esta página se irá actualizando y haré cosas para actualizar campos e intenta
 
 <p style="text-align:center">
 <a href="./kayak"><img src="./kayak/perfil.jpg" width="40%"/></a>
+<a href="./scape_room"><img src="./scape_room/perfil.jpg" width="40%"/></a>
 </p>
