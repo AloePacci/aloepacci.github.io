@@ -16,3 +16,6 @@ you can split this github account rn in 4 different spaces:
 <a href="./Sibiu_Nano_p"><img src="./Sibiu_Nano_p/assets/sibiu.jpeg" width="40%"/></a>
 <a href="./miscellaneous"><img src="./miscellaneous/assets/profile.jpeg" width="40%"/></a>
 </p>
+<p style="text-align:center">
+<a href="./Ramona"><img src="./Ramona/assets/satelite_view.png" width="40%"/></a>
+</p>
